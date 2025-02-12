@@ -1,0 +1,15 @@
+.App{
+    padding: 1rem 0;
+    background-image: url('./Assets/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    overflow: auto;
+}
+
+.logo{
+    display: block;
+    width: 20%;
+    margin: .5rem auto 2rem auto;
+}
